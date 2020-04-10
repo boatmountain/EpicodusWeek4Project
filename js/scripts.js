@@ -17,6 +17,8 @@ Pizza.prototype.orderPrompt =  function() {
 }
 
 console.log(testPizza);
+console.log(testPizza.createSize);
+console.log(testPizza).createToppings;
 console.log(testPizza.orderPrompt());
 
 
