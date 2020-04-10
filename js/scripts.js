@@ -12,6 +12,9 @@ Pizza.prototype.createToppings = function() {
 
 }
 
+Pizza.prototype.orderPrompt =  function() {
+    return "Your " + this.size + " pizza with " + this.toppings + " has been ordered.";
+}
 
 
 // User Interface Logic
