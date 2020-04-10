@@ -13,7 +13,7 @@ This is a pizza ordering app for fake business, End of the Camera Pizza.  This a
 |-------|--------|-----|
 | User selects small | Pizza becomes a small | User is able to choose between Small, Medium, or Large pizza|
 | USer selects multiple toppings | Pizza has 3 toppings | User is able to choose many toppings |
-|----------------------|
+
 
 ## Setup/Installation Requirements
 
