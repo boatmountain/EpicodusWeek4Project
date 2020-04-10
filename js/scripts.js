@@ -16,6 +16,9 @@ Pizza.prototype.orderPrompt =  function() {
     return "Your " + this.size + " pizza with " + this.toppings + " has been ordered.";
 }
 
+console.log(testPizza);
+console.log(testPizza.orderPrompt());
+
 
 // User Interface Logic
 
