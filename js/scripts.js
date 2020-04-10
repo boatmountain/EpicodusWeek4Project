@@ -3,9 +3,16 @@ function Pizza (size, toppings) {
     this.toppings = toppings;
 }
 
-Pizza.prototype.createSize 
+var testPizza = new Pizza("large", "Pepperoni")
 
-Pizza.prototype.createToppings
+Pizza.prototype.createSize = function() {
+
+}
+Pizza.prototype.createToppings = function() {
+
+}
+
+
 
 // User Interface Logic
 
