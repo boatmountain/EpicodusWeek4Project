@@ -6,6 +6,9 @@ function Pizza (size, toppings) {
 var testPizza = new Pizza("large", "Pepperoni")
 
 Pizza.prototype.createSize = function() {
+    var chosenSize = this.size;
+
+    for (var i=0, rad)
 
 }
 Pizza.prototype.createToppings = function() {
